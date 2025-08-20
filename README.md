@@ -10,7 +10,7 @@ The following images showcase the project's design, responsiveness, and successf
 <img width="1322" height="623" alt="image" src="https://github.com/user-attachments/assets/25c28474-14aa-42b5-bb1a-9acfb9afa8c0" />
 
 Live Demo
-A live, interactive version of this project is hosted on GitHub Pages.
+A live, interactive version of this project is hosted on Vercel.
 https://portfolio-websiteproject.vercel.app/
 
 Technology Stack
