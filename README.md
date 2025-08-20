@@ -9,6 +9,9 @@ The following images showcase the project's design, responsiveness, and successf
 <img width="1321" height="608" alt="image" src="https://github.com/user-attachments/assets/fc98a510-8a71-4b1d-9072-18d28447d7fc" />
 <img width="1322" height="623" alt="image" src="https://github.com/user-attachments/assets/25c28474-14aa-42b5-bb1a-9acfb9afa8c0" />
 
+Live Demo
+A live, interactive version of this project is hosted on GitHub Pages.
+https://portfolio-websiteproject.vercel.app/
 
 Technology Stack
 This project was built using foundational web technologies, with a focus on a clean, "zero-build" setup for maximum portability and ease of review. The following details the technologies used and their specific roles within the project
